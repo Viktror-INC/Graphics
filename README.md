@@ -14,7 +14,7 @@ This is a web application built with Next.js, Tailwind CSS, Material UI, RTK Que
 
 Before running the project, make sure you have the following installed:
 
-- Node.js (version 12 or higher)
+- Node.js (version 18 or higher)
 - yarn
 
 
