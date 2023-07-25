@@ -1,6 +1,6 @@
 # Profit and Loss (P&L) Calculation App
 
-This is a web application built with Next.js, Tailwind CSS, Material UI, Redux Thunk, TypeScript, Chart.js, and Day.js. The app allows users to view and calculate their profit and loss (P&L) based on the provided data.
+This is a web application built with Next.js, Tailwind CSS, Material UI, RTK Query, TypeScript, Chart.js, and Day.js. The app allows users to view and calculate their profit and loss (P&L) based on the provided data.
 
 
 ## Features
@@ -36,7 +36,7 @@ The application is built using the following technologies:
 - [Next.js](https://nextjs.org/) - React framework for server-side rendering and static site generation.
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework.
 - [Material UI](https://material-ui.com/) - React components for a consistent and polished UI.
-- [Redux Thunk](https://github.com/reduxjs/redux-thunk) - Middleware for handling asynchronous actions with Redux.
+- [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) - Middleware for handling asynchronous actions with Redux.
 - [TypeScript](https://www.typescriptlang.org/) - Typed JavaScript for enhanced developer experience.
 - [Chart.js](https://www.chartjs.org/) - JavaScript charting library for creating interactive charts.
 - [Day.js](https://day.js.org/) - JavaScript date utility library for parsing, validating, and formatting dates.
